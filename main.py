@@ -1,5 +1,7 @@
-import dataclasses
+import datetime
+import json
 import logging
+import time
 import urllib.parse
 from pathlib import Path
 import re
@@ -7,7 +9,6 @@ import aiohttp
 import asyncio
 import requests
 from bs4 import BeautifulSoup
-
 
 # @dataclasses.dataclass
 # class Product:
@@ -57,10 +58,11 @@ headers = {
 
 
 class Parser:
-    def __init__(self, url, file: Path | str = None, cookies=None):
+    def __init__(self, url, file: Path | str = None, cookies=None, params=None):
         self.url = url
         self.base_url = self.base_url(self.url)
-        html_page = self.get_html_for_url(self.url, cookies=cookies) if file is None else self.get_html_for_file(file)
+        html_page = self.get_html_for_url(self.url, cookies=cookies, headers=headers,
+                                          params=params) if file is None else self.get_html_for_file(file)
         self.soup = BeautifulSoup(html_page, 'lxml')
 
     @staticmethod
@@ -126,14 +128,19 @@ class ParserProduct:
 
 class MainParser(Parser):
 
-    def __init__(self, url: str, metro_store_id, file: Path | str = None):
+    def __init__(self, url: str, metro_store_id, file: Path | str = None, in_stock=False):
+        self.in_stock = in_stock
+        params = {}
+        if self.in_stock:
+            params["in_stock"] = '1'
+
         cookies['metroStoreId'] = f'{metro_store_id}'
         self.url = url.split("?")[0]
-        super().__init__(url=self.url, file=file, cookies=cookies)
+        super().__init__(url=self.url, file=file, cookies=cookies, params=params)
 
     @property
     def address(self):
-        return self.soup.find(class_="header-address__receive-address")
+        return self.soup.find(class_="header-address__receive-address").text.strip()
 
     @property
     def pagination_list(self) -> range:
@@ -150,9 +157,13 @@ class MainParser(Parser):
                 task = asyncio.create_task(self.get_items_for_page(session, page))
                 tasks.append(task)
             await asyncio.gather(*tasks)
+            return self.list_product
 
     async def get_items_for_page(self, session, page):
-        async with session.get(url=self.url, params={'page': f'{page}'}, cookies=cookies, headers=headers) as response:
+        params = {'page': f'{page}'}
+        if self.in_stock:
+            params["in_stock"] = '1'
+        async with session.get(url=self.url, params=params, cookies=cookies, headers=headers) as response:
             html_page = await response.text()
             soup = BeautifulSoup(html_page, "lxml")
 
@@ -161,22 +172,62 @@ class MainParser(Parser):
             for product in products:
                 product = ParserProduct(product)
                 actual_price, old_price = product.price
-                i+=1
+                i += 1
                 obj_product = {
                     'id': product.id,
                     'title': product.title,
                     'url': f"{self.base_url}" + product.link,
                     'regular_price': old_price if old_price else actual_price,
                     'promo_price': actual_price if old_price else None,
+                    'brand': None
                 }
-
                 self.list_product.append(obj_product)
-            logging.debug(f"[INFO] - парсинг страницы - {page} (собрано {i} товаров)")
+            logging.info(f"[INFO] - парсинг страницы - {page} (собрано {i} товаров)")
+
+
+class ParserProductPage:
+    def __init__(self, cookies=None):
+        self.cookies = cookies
+
+    async def supplement_datas(self, data: list[dict]):
+        async with aiohttp.ClientSession() as session:
+            tasks = []
+            for product in data:
+                task = asyncio.create_task(self.set_brand(product, session))
+                tasks.append(task)
+            return await asyncio.gather(*tasks)
+
+    async def set_brand(self, data_product, session=None):
+        url = data_product['url']
+        async with session.get(url, cookies=self.cookies, headers=headers) as html_page:
+            soup = BeautifulSoup(await html_page.text(), 'lxml')
+            table = soup.find(class_="product-attributes__list style--product-page-full-list").find_all(
+                class_="product-attributes__list-item")
+            table = [x.text.replace("\n", "").strip().split("   ") for x in table]
+            table = [sublist[0:1] + sublist[-1:] for sublist in table]
+            table = {k.strip().lower(): v.strip() for (k, v) in table}
+            data_product['brand'] = table["бренд"]
+            logging.debug("Добавлен бренд")
+            return data_product
 
 
 if __name__ == "__main__":
-    m_par = MainParser(url='https://online.metro-cc.ru/category/chaj-kofe-kakao/kofe?from=under_search', metro_store_id=16)
-    asyncio.run(m_par.parse_all_page())
-    print(m_par.list_product.__len__())
+    print(f"{'=' * 10} PARSER {'=' * 10}")
+    url = input("Введите ссылку на категорию: ")
 
+    start = time.time()
+    parser_metro = MainParser(url=url, metro_store_id=16, in_stock=True)
+    print(parser_metro.address)
+    products = asyncio.run(parser_metro.parse_all_page())
+    print("Элементов: ", products.__len__())
+    print(f"Загрузка данных из каталога завершена за {time.time() - start} секунд.")
 
+    start = time.time()
+    parser_product_page = ParserProductPage()
+    products = asyncio.run(parser_product_page.supplement_datas(products))
+    print("Элементов: ", products.__len__())
+    print(f"Загрузка данных о каждом продукте завершена за {time.time() - start} секунд.")
+
+    with open(f'products_{datetime.date.today()}.json', 'w') as file:
+        json.dump(products, file)
+    print("Данные сохранены")
