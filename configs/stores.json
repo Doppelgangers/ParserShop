@@ -1,0 +1,3764 @@
+
+[
+    {
+        "id": 1,
+        "name": "Ленинградское ш., д.71Г",
+        "store_id": 10,
+        "address": "125445, г. Москва, Ленинградское ш., д.71Г",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Александр Леденев",
+            "email": "acquisition.store10@metro.com.ru",
+            "phone": "+7 (495) 502 10 09 (доб. 11078)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502 10 09",
+            "email": "customerservise.store10@metro-cc.ru",
+            "orders": "customerservise.store10@metro-cc.ru",
+            "masterclasses": "sergey.bazhora@metro-cc.ru"
+        },
+        "services": [
+            "Услуги в ТЦ",
+            "бесплатная парковка",
+            "камеры хранения",
+            "Ресторан",
+            "доставка",
+            "банкоматы",
+            "оформление товаров в кредит",
+            "терминалы оплаты услуг",
+            "А также:",
+            "Аптека",
+            "Почта России"
+        ],
+        "coordinates": {
+            "latitude": 55.875753,
+            "longitude": 37.447279
+        },
+        "site_key": "ffb8b2da-ac28-46a1-b737-3e53d2cd1667",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 2,
+        "store_id": 11,
+        "name": "Проспект Мира, д.211, корп.1",
+        "address": "129226, г. Москва, пр-кт Мира, д.211, корп.1",
+        "work_mode": "05:00 - 23:00",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Гулиянц Артем",
+            "email": "acquisition.store11@metro.com.ru",
+            "phone": "+7 (495) 502 11 71 (доб. 11178)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-10-01",
+            "email": "entry.store11@metro-cc.ru",
+            "orders": "entry.store11@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.844041,
+            "longitude": 37.66265
+        },
+        "site_key": "590d924b-f29c-436a-b669-02297099a327",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 3,
+        "store_id": 12,
+        "name": "ул. Дорожная, д.1, корп.1",
+        "address": "117545, г. Москва, ул. Дорожная, д.1, корп.1",
+        "work_mode": "05:00 - 23:30",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Кальчугин Андрей",
+            "email": "acquisition.store12@metro.com.ru",
+            "phone": "+7(903) 371-56-43 (доб. 11278) /+7 966 150 89 11"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-10-02",
+            "email": "entry.store12@metro-cc.ru",
+            "orders": "entry.store12@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.630721,
+            "longitude": 37.62493
+        },
+        "site_key": "c6c971ee-12ed-432a-9b31-f06d332372f5",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 4,
+        "store_id": 13,
+        "name": "ул. Рябиновая, д.59",
+        "address": "121471, г. Москва, ул. Рябиновая, д.59",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Солохин Дмитрий",
+            "email": "acquisition.store13@metro.com.ru",
+            "phone": "+7 (495) 502 10 03"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-10-03",
+            "email": "entry.store13@metro-cc.ru",
+            "orders": "entry.store13@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            "бесплатная парковка",
+            "камеры хранения",
+            "Ресторан",
+            "доставка",
+            "банкоматы",
+            "оформление товаров в кредит",
+            "терминалы оплаты услуг",
+            "Аптека",
+            "Почта России"
+        ],
+        "coordinates": {
+            "latitude": 55.685853,
+            "longitude": 37.43181
+        },
+        "site_key": "f0ce330e-65aa-4da4-b2ec-26483183306e",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 5,
+        "store_id": 14,
+        "name": "Дмитровское ш., д.165Б",
+        "address": "127204, г. Москва, Дмитровское ш., д.165Б",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Леонов Денис",
+            "email": "acquisition.store14@metro.com.ru",
+            "phone": "+7 (495) 502 10 04 (доб. 11478, 11426)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-10-04",
+            "email": "entry.store14@metro-cc.ru",
+            "orders": "entry.store14@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.915992,
+            "longitude": 37.540084
+        },
+        "site_key": "a2740fa8-5832-44f9-b38c-aafa681b8b23",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 6,
+        "store_id": 17,
+        "name": "ул. Маршала Прошлякова, д. 14",
+        "address": "123458, г. Москва, ул. Маршала Прошлякова, д. 14",
+        "work_mode": "05:00 - 23:00",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Коваленко Татьяна Петровна",
+            "email": "entry.store17@metro-cc.ru",
+            "phone": "+7 (495) 921 17 71 (доб. 11778)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 921-17-00",
+            "email": "entry.store17@metro-cc.ru",
+            "orders": "entry.store17@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.79118227704494,
+            "longitude": 37.38871749999994
+        },
+        "site_key": "f05acd96-5556-4105-8c80-ba8be50e19d7",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 7,
+        "store_id": 18,
+        "name": "МКАД, 104 км, д.6",
+        "address": "105523, г. Москва, МКАД, 104 км, д.6",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Светлана Никишина",
+            "email": "acquisition.store18@metro.com.ru",
+            "phone": "+7 (495) 502 10 08 (доб. 11878)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-10-08",
+            "email": "entry.store18@metro-cc.ru",
+            "orders": "Entry.Store26@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.811285,
+            "longitude": 37.837444
+        },
+        "site_key": "5d071936-ec48-4f9b-a043-234cd927f20b",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 8,
+        "store_id": 19,
+        "name": "ул. Шоссейная, 2Б",
+        "address": "109548, г. Москва, ул. Шоссейная, 2Б",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Семенов Леонид",
+            "email": "acquisition.store19@metro.com.ru",
+            "phone": "+7 (495) 502 19 71 (доб. 11978)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 502-19-71",
+            "email": "entry.store19@metro-cc.ru",
+            "orders": "entry.store19@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.700725,
+            "longitude": 37.726269
+        },
+        "site_key": "ea7aa88d-7948-40b3-8e8e-c5ec916748fc",
+        "dark_store": false,
+        "assortment_text": "Более 40 000 товаров",
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 9,
+        "store_id": 21,
+        "name": "Мещерский бульвар,  д.3а",
+        "address": "603070,  г. Нижний Новгород, Мещерский бульвар,  д.3А",
+        "work_mode": "07:00 - 23:00",
+        "city": "Нижний Новгород",
+        "region": "Нижегородская область",
+        "director": {
+            "name": "Дмитрий Лукьянов",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (831) 278-00-00",
+            "email": "entry.store21@metro-cc.ru",
+            "orders": "entry.store21@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.334292568400315,
+            "longitude": 43.951233999999985
+        },
+        "site_key": "2ba77917-f6f7-4fd8-a591-33c04365c8ef",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nn",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 10,
+        "store_id": 22,
+        "name": "Проспект Фрунзе, д.32",
+        "address": "150022, г. Ярославль, проспект Фрунзе, д.32",
+        "work_mode": "07:00 - 22:00",
+        "city": "Ярославль",
+        "region": "Ярославская область",
+        "director": {
+            "name": "Корженко Юлия",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4852) 66-03-00",
+            "email": "Entry.Store22@metro-cc.ru",
+            "orders": "Entry.Store22@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 57.589997,
+            "longitude": 39.897371
+        },
+        "site_key": "76b03fd8-404a-450f-abbe-d9882099c567",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "yar",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 11,
+        "store_id": 36,
+        "name": "Московское шоссе, д.25",
+        "address": "390044, г. Рязань, Московское шоссе, д.25",
+        "work_mode": "07:00 - 22:00",
+        "city": "Рязань",
+        "region": "Рязанская область",
+        "director": {
+            "name": "Солохин Дмитрий",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4912) 24-58-00",
+            "email": "entry.store36@metro-cc.ru",
+            "orders": "entry.store36@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.636126,
+            "longitude": 39.680032
+        },
+        "site_key": "4802ab40-a3e0-481c-97c2-613af4254171",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "rzn",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 12,
+        "store_id": 37,
+        "name": "Калужское шоссе, д. Прудное, д.104",
+        "address": "300903, Тульская область, Ленинский район, Калужское шоссе, д. Прудное, д.104",
+        "work_mode": "07:00 - 22:00",
+        "city": "Тула",
+        "region": "Тульская область",
+        "director": {
+            "name": "Юлия Бакурова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4872) 25-37-00",
+            "email": "entry.store37@metro-cc.ru",
+            "orders": "entry.store37@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.15590598387914,
+            "longitude": 37.54176156945032
+        },
+        "site_key": "de1ea1a9-e6e2-44ed-a0a1-6c2d261b53f2",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "tula",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 13,
+        "store_id": 48,
+        "name": "Пос. Томилино, 23 км Новорязанского шоссе, д. 17",
+        "address": "140072, Московская область, Люберецкий р-н, Томилино рп., Новорязанского шоссе 23-й км., уч. 17",
+        "work_mode": "06:00 - 23:45",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Роман Коновалов",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 662 71 00; +7 (495) 662 71 00 / 71",
+            "email": "entry.store48@metro-cc.ru",
+            "orders": "entry.store48@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.655410509904705,
+            "longitude": 37.90667550772949
+        },
+        "site_key": "92c17e26-2565-4257-bcda-013582335709",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 14,
+        "store_id": 50,
+        "name": "ул. Нартова, 4 \"А\"",
+        "address": "603057, г. Нижний Новгород, ул. Нартова, 4А",
+        "work_mode": "07:00 - 23:00",
+        "city": "Нижний Новгород",
+        "region": "Нижегородская область",
+        "director": {
+            "name": "Ольга Разумова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (831) 220-19-00",
+            "email": "entry.store50@metro-cc.ru",
+            "orders": "entry.store50@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.28693206842856,
+            "longitude": 43.99780249999996
+        },
+        "site_key": "ac5eb288-7b34-49dd-b109-490611e1cc4e",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nn",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 15,
+        "store_id": 59,
+        "name": "Южнее деревни Игнатово, стр.1",
+        "address": "153009, Ивановская обл., Ивановский район, южнее деревни Игнатово, стр.1",
+        "work_mode": "07:00 - 22:00",
+        "city": "Иваново",
+        "region": "Ивановская область",
+        "director": {
+            "name": "Дмитрий Смуров",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4932) 58-84-00",
+            "email": "entry.store59@metro-cc.ru",
+            "orders": "entry.store59@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.950425,
+            "longitude": 40.954375
+        },
+        "site_key": "1c632295-5555-4f5c-ba17-f4f0da1498ec",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ivanovo",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 16,
+        "store_id": 63,
+        "name": "ул. Склизкова, 122",
+        "address": "170028, г. Тверь, ул. Склизкова, 122",
+        "work_mode": "07:00 - 22:00",
+        "city": "Тверь",
+        "region": "Тверская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4822) 79-88-00",
+            "email": "entry.store63@metro-cc.ru",
+            "orders": "entry.store63@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.82950874146152,
+            "longitude": 35.946436677909816
+        },
+        "site_key": "c69c725b-90fd-43c8-b7ed-3c5df834ebfa",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "tver",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 17,
+        "store_id": 67,
+        "name": "г. Балашиха, мкр. Железнодорожный, ул. Советская, д.60",
+        "address": "143987, Московская обл., г. Балашиха, мкр. Железнодорожный, Советская 60",
+        "work_mode": "06:00 - 23:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Жаров Роман",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-22-00",
+            "email": "entry.store67@metro-cc.ru",
+            "orders": "entry.store67@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.75001806896196,
+            "longitude": 38.046194500000006
+        },
+        "site_key": "30a628ee-91a4-4e24-b92a-844702b868aa",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 18,
+        "store_id": 68,
+        "name": "Московский проспект, 279",
+        "address": "236001, г. Калининград, Московский проспект, 279",
+        "work_mode": "07:00 - 24:00",
+        "city": "Калининград",
+        "region": "Калининградская область",
+        "director": {
+            "name": "Людмила Вильгуш",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4012) 31-01-00",
+            "email": "entry.store68@metro-cc.ru",
+            "orders": "entry.store68@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.706454,
+            "longitude": 20.593653
+        },
+        "site_key": "328255c1-b64a-49c3-9cb1-2edeff088967",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "klg",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 19,
+        "store_id": 202,
+        "name": "Окружное шоссе, 11а",
+        "address": "160028, Вологодская обл., г. Вологда, Окружное шоссе, 11а",
+        "work_mode": "Пн-пт 08:00 - 18:00; сб 09:00 - 17:00",
+        "city": "Вологда",
+        "region": "Вологодская область",
+        "director": {
+            "name": "Михайлова Анна",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8172) 33-01-04; +7 (8172) 33-03-05",
+            "email": "entry.store1202@metro-cc.ru",
+            "orders": "entry.store1202@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 59.206692261661,
+            "longitude": 39.81194999999997
+        },
+        "site_key": "1272ebe5-9099-4aed-826d-967a21d30cab",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "vologda",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 20,
+        "store_id": 25,
+        "name": "ул. Остужева, д.56",
+        "address": "394042, г. Воронеж, ул. Остужева, д.56",
+        "work_mode": "07:00 - 23:00",
+        "city": "Воронеж",
+        "region": "Воронежская область",
+        "director": {
+            "name": "Чернышева Виктория",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (473) 239-75-00",
+            "email": "icontrol.store25@metro-cc.ru",
+            "orders": "icontrol.store25@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 51.67856101931818,
+            "longitude": 39.284306083991964
+        },
+        "site_key": "0f7a06d6-9ae4-4f2d-a294-452f36940af1",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "voronezh",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 21,
+        "store_id": 39,
+        "name": "ул. 50 лет НЛМК, д. 8",
+        "address": "398059, г. Липецк, ул. 50 лет НЛМК,   д. 8",
+        "work_mode": "07:00 - 22:00",
+        "city": "Липецк",
+        "region": "Липецкая область",
+        "director": {
+            "name": "Елена Елисеева",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4742) 90-76-00",
+            "email": "icontrol.store39@metro-cc.ru",
+            "orders": "icontrol.store39@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 52.587685,
+            "longitude": 39.588009
+        },
+        "site_key": "8138998b-2726-4ad3-9ecb-6c7282102f57",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "lip",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 22,
+        "store_id": 49,
+        "name": "п. Московский, кв-л 34, д.3, стр. 1",
+        "address": "108811, г. Москва, п. Московский, кв-л 34, д.3, стр. 1",
+        "work_mode": "06:00 - 23:00",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Ольга Петек",
+            "email": "acquisition.store49@metro.com.ru",
+            "phone": "7 (495) 662 16 71 (доб. 14978)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 662-16-00",
+            "email": "entry.store49@metro-cc.ru",
+            "orders": "entry.store49@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.62001088992262,
+            "longitude": 37.387350521495804
+        },
+        "site_key": "ddfaed10-5e08-458f-9967-baa9b63bd52e",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 23,
+        "store_id": 51,
+        "name": "ул. Карла Маркса,85",
+        "address": "305000, г. Курск, ул. Карла Маркса,85",
+        "work_mode": "07:00 - 22:00",
+        "city": "Курск",
+        "region": "Курская область",
+        "director": {
+            "name": "Сергей Коноплев",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4712) 73-31-00",
+            "email": "entry.store51@metro-cc.ru",
+            "orders": "entry.store51@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 51.7914900722339,
+            "longitude": 36.18770599999993
+        },
+        "site_key": "1b8e2383-8efe-425e-9c51-ce617f0c107a",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kursk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 24,
+        "store_id": 52,
+        "name": "Село Засечное, ул. Звездная,1",
+        "address": "440513, Пензенская обл., Пензенский р-н, село Засечное, ул. Звездная,1",
+        "work_mode": "07:00 - 22:00",
+        "city": "Пенза",
+        "region": "Пензенская область",
+        "director": {
+            "name": "Штеймарк О.А.",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8412) 21-13-00; +7 (8412) 21-13-01",
+            "email": "Entry.store52@metro-cc.ru",
+            "orders": "Entry.store52@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.143199,
+            "longitude": 45.034602
+        },
+        "site_key": "bcdb7993-b2dd-4844-b43b-b4a5eda672ad",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "penza",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 25,
+        "store_id": 55,
+        "name": "Тульское шоссе, д.51",
+        "address": "248033, г. Калуга, Тульское шоссе, д.51",
+        "work_mode": "07:00 - 22:00",
+        "city": "Калуга",
+        "region": "Калужская область",
+        "director": {
+            "name": "Анна Головина",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4842) 90-05-00",
+            "email": "entry.store55@metro-cc.ru",
+            "orders": "entry.store55@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.467098,
+            "longitude": 36.252897
+        },
+        "site_key": "082a4400-1b75-4bc8-95a1-58cfd22f9541",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kaluga",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 26,
+        "store_id": 56,
+        "name": "Фокинский район, проспект Московский, 1Д",
+        "address": "241029, г. Брянск, Фокинский район, проспект Московский, 1Д",
+        "work_mode": "07:00 - 22:00",
+        "city": "Брянск",
+        "region": "Брянская область",
+        "director": {
+            "name": "Сергей Садомский",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4832) 36-75-00",
+            "email": "entry.store56@metro-cc.ru",
+            "orders": "entry.store56@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.222703,
+            "longitude": 34.381302
+        },
+        "site_key": "2630afe2-745b-4a75-a776-81c579deb333",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "bryansk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 27,
+        "store_id": 61,
+        "name": "д. Черная грязь, ул. Торгово-Промышленная, стр.5 (с.п. Луневское)",
+        "address": "141580, МО,  Солнечногорский район, д. Черная грязь, ул.Торгово-Промышленная, стр.5 (с.п. Луневское)",
+        "work_mode": "07:00 - 23:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Соц Ольга",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-21-00",
+            "email": "entry.store61@metro-cc.ru",
+            "orders": "entry.store61@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.980395,
+            "longitude": 37.298715
+        },
+        "site_key": "1b4c66b9-d29a-4262-8230-c0cc94c1859c",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 28,
+        "store_id": 69,
+        "name": "ул. Кутузова, 54",
+        "address": "214006, г. Смоленск, ул. Кутузова, 54",
+        "work_mode": "07:00 - 23:00",
+        "city": "Смоленск",
+        "region": "Смоленская область",
+        "director": {
+            "name": "Юлия Бакурова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4812) 25-03-00",
+            "email": "c-e.store69@metro-cc.ru",
+            "orders": "c-e.store69@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.840648177573456,
+            "longitude": 32.04319551573201
+        },
+        "site_key": "30930463-7b3e-440b-96ee-ff1f4b32ec93",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "smolensk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 29,
+        "store_id": 23,
+        "name": "ул. Вахитова, 4",
+        "address": "420124, республика Татарстан, Казань, 4, ул. Вахитова, 4",
+        "work_mode": "07:00 - 23:00",
+        "city": "Казань",
+        "region": "Казань",
+        "director": {
+            "name": "Мария Герасимова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (843) 210-01-00",
+            "email": "entry.store23@metro-cc.ru",
+            "orders": "entry.store23@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.812307,
+            "longitude": 49.081917
+        },
+        "site_key": "870fa7d5-b8ec-47de-ab62-cfbf1bcc5ae5",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kazan",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 30,
+        "store_id": 41,
+        "name": "ул. Урицкого, дом №100-Д",
+        "address": "432071, г. Ульяновск, ул. Урицкого, дом №100-Д",
+        "work_mode": "07:00 - 22:00",
+        "city": "Ульяновск",
+        "region": "Ульяновская область",
+        "director": {
+            "name": "Светлана Хорева",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8422) 29-02-00",
+            "email": "entry.store41@metro-cc.ru",
+            "orders": "entry.store41@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.330218,
+            "longitude": 48.35474
+        },
+        "site_key": "ef89ebba-577b-4d6e-9bf1-274e4db014bc",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ul",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 31,
+        "store_id": 43,
+        "name": "пр-т Чулман, д.33",
+        "address": "423822, Республика Татарстан, г. Набережные Челны, пр-т Чулман, д.33",
+        "work_mode": "07:00 - 22:00",
+        "city": "Набережные Челны",
+        "region": "Татарстан",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8552) 40-40-70",
+            "email": "Entry.Store43@metro-cc.ru",
+            "orders": "Entry.Store43@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.729027,
+            "longitude": 52.37117
+        },
+        "site_key": "ea43dc2e-9823-44ac-9547-b8205bb1273b",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nb",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 32,
+        "store_id": 70,
+        "name": "Шоссе Марпосадское, 15/2",
+        "address": "428022, Чувашская республика, г. Чебоксары, шоссе Марпосадское, 15/2",
+        "work_mode": "07:00 - 22:00",
+        "city": "Чебоксары",
+        "region": "Чувашия",
+        "director": {
+            "name": "Шигабутдинова Татьяна",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8352) 36-82-00",
+            "email": "entry.store70@metro-cc.ru",
+            "orders": "entry.store70@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.129509068623186,
+            "longitude": 47.31891049999991
+        },
+        "site_key": "5538857f-87ce-4ec1-977d-96cb79b08197",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "cheb",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 33,
+        "store_id": 71,
+        "name": "ул. Союзная, 6",
+        "address": "426075, Удмуртская республика, г.Ижевск, ул. Союзная, 6",
+        "work_mode": "07:00 - 22:00",
+        "city": "Ижевск",
+        "region": "Удмуртия",
+        "director": {
+            "name": "Сергей Боклач",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3412) 32-00-00",
+            "email": "entry.store71@metro-cc.ru",
+            "orders": "entry.store71@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.846441440659945,
+            "longitude": 53.30716491104503
+        },
+        "site_key": "7505b1ae-19f6-40d2-bedc-a8a1fa6f09a5",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "izhevsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 34,
+        "store_id": 74,
+        "name": "Приволжский район, ул. Тихорецкая, д. 4",
+        "address": "420054, Республика Татарстан, г. Казань, Приволжский район, ул. Тихорецкая, д. 4",
+        "work_mode": "07:00 - 22:00",
+        "city": "Казань",
+        "region": "Казань",
+        "director": {
+            "name": "Татьяна Шигабутдинова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (843) 567-24-00",
+            "email": "entry.store74@metro-cc.ru",
+            "orders": "entry.store74@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.732235,
+            "longitude": 49.131073
+        },
+        "site_key": "9ccc18f1-9ee6-44e4-a240-74a30839ebfa",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kazan",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 35,
+        "store_id": 15,
+        "name": "Комендантский проспект,  д.3, лит. А",
+        "address": "197227, г. Санкт-Петербург, Комендантский проспект,  д.3, лит. А",
+        "work_mode": "06:00 - 23:30",
+        "city": "Санкт-Петербург",
+        "region": "Санкт-Петербург",
+        "director": {
+            "name": "Дмитрий Федоров",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (812) 449-15-00",
+            "email": "entry.store15@metro-cc.ru",
+            "orders": "entry.store15@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 60.002202,
+            "longitude": 30.26868
+        },
+        "site_key": "af0c2db5-136b-415a-91a7-95264dc1cc0b",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "spb",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 36,
+        "store_id": 16,
+        "name": "пр-т Косыгина, д.4, лит. А",
+        "address": "195298 г. Санкт-Петербург, просп. Косыгина 4, лит. А",
+        "work_mode": "06:00 - 23:30",
+        "city": "Санкт-Петербург",
+        "region": "Санкт-Петербург",
+        "director": {
+            "name": "Пластун Ярослав",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (812) 449 16 00",
+            "email": "Entry.Store16@metro-cc.ru",
+            "orders": "Entry.Store16@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 59.94083006417833,
+            "longitude": 30.45617599999998
+        },
+        "site_key": "fd772273-bc3e-46f7-9a3b-3a820be18df6",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "spb",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 37,
+        "store_id": 20,
+        "name": "Пулковское шоссе, д.23, лит. A",
+        "address": "196240, г. Санкт-Петербург, Пулковское шоссе, д.23, лит. A",
+        "work_mode": "06:00 - 23:30",
+        "city": "Санкт-Петербург",
+        "region": "Санкт-Петербург",
+        "director": {
+            "name": "Зифферман Елена",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (812) 448-20-00",
+            "email": "Entry.Store20@metro-cc.ru",
+            "orders": "Entry.Store20@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 59.822342579498375,
+            "longitude": 30.316797347559262
+        },
+        "site_key": "070dd718-fd6a-4414-bcd4-a385a855ff9c",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "spb",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 38,
+        "store_id": 27,
+        "name": "ул. Рубежная, д.170",
+        "address": "450018, г. Уфа, ул. Рубежная, д.170",
+        "work_mode": "07:00 - 22:00",
+        "city": "Уфа",
+        "region": "Башкортостан",
+        "director": {
+            "name": "Мухамадияров Марсель",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (347) 292-54-00; +7 (347) 262-56-00",
+            "email": "entry.store27@metro-cc.ru",
+            "orders": "entry.store27@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.668509,
+            "longitude": 55.930852
+        },
+        "site_key": "055e431b-34e5-45e0-a25f-2af6420cbd01",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ufa",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 39,
+        "store_id": 32,
+        "name": "18 км Московского шоссе, д.5А",
+        "address": "443072, г. Самара, 18 км Московского шоссе, д.5А",
+        "work_mode": "07:00 - 22:00",
+        "city": "Самара",
+        "region": "Самарская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (846) 267-32-00",
+            "email": "Entry.Store32@metro-cc.ru",
+            "orders": "Entry.Store32@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.277879,
+            "longitude": 50.276703
+        },
+        "site_key": "9acf5830-11a3-4f97-b983-5c31bcf5ed99",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "samara",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 40,
+        "store_id": 34,
+        "name": "Южное шоссе, д.2а",
+        "address": "445047, Самарская обл., г. Тольятти, Южное шоссе, д.2а",
+        "work_mode": "07:00 - 22:00",
+        "city": "Тольятти",
+        "region": "Самарская область",
+        "director": {
+            "name": "Татьяна Емельянова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8482) 94-01-00",
+            "email": "entry.store34@metro-cc.ru",
+            "orders": "entry.store34@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.547499,
+            "longitude": 49.373798
+        },
+        "site_key": "c822db27-6809-49cd-b565-fd76d5c21af5",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "togl",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 41,
+        "store_id": 38,
+        "name": "ул. Аэропорт, д. 14",
+        "address": "410010, г. Саратов, ул. Аэропорт, д. 14",
+        "work_mode": "07:00 - 22:00",
+        "city": "Саратов",
+        "region": "Саратовская область",
+        "director": {
+            "name": "Денис Кравцов",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8452) 42-80-00",
+            "email": "entry.store38@metro-cc.ru",
+            "orders": "entry.store38@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 51.558476,
+            "longitude": 46.038003
+        },
+        "site_key": "1c5471b4-9fa6-48c9-a809-fad2e7f5ee41",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "saratov",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 42,
+        "store_id": 47,
+        "name": "Проспект Победы, 155",
+        "address": "460048, г. Оренбург, проспект Победы, 155",
+        "work_mode": "08:00-20:00",
+        "city": "Оренбург",
+        "region": "Оренбургская область",
+        "director": {
+            "name": "Виталий Рязанов",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3532) 94-69-00",
+            "email": "entry.store47@metro-cc.ru",
+            "orders": "entry.store47@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 51.815705,
+            "longitude": 55.139149
+        },
+        "site_key": "7e7c5ed3-84b3-4887-ac0a-6a60d644d37d",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "orenburg",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 43,
+        "store_id": 64,
+        "name": "ул. Уральская, 225",
+        "address": "443041, Самара, ул. Уральская, 225",
+        "work_mode": "07:00 - 22:00",
+        "city": "Самара",
+        "region": "Самарская область",
+        "director": {
+            "name": "Екатерина Максимова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (846) 379-18-00",
+            "email": "Entry.Store1064@metro-cc.ru",
+            "orders": "Entry.Store1064@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.133411071275255,
+            "longitude": 50.13852449999994
+        },
+        "site_key": "8f464fd5-4ca0-463a-ae00-1b37a46ff78e",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "samara",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 44,
+        "store_id": 29,
+        "name": "Дублер Сибирского тракта, д.21",
+        "address": "620072, г. Екатеринбург, дублер Сибирского тракта, д.21",
+        "work_mode": "07:00 - 22:00",
+        "city": "Екатеринбург",
+        "region": "Екатеринбург",
+        "director": {
+            "name": "Дмитрий Ончуров",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (343) 379-26-00",
+            "email": "entry.store29@metro-cc.ru",
+            "orders": "entry.store29@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.823676,
+            "longitude": 60.712899
+        },
+        "site_key": "62eeaf75-1bcb-4cc7-b237-e82f4d3e2792",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ekat",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": false
+        }
+    },
+    {
+        "id": 45,
+        "store_id": 30,
+        "name": "ул. Металлургов, д. 85",
+        "address": "620043, г. Екатеринбург, ул. Металлургов, д. 85",
+        "work_mode": "07:00 - 22:00",
+        "city": "Екатеринбург",
+        "region": "Екатеринбург",
+        "director": {
+            "name": "Виталий Моор-Бурин",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (343) 253-03-00",
+            "email": "entry.store30@metro-cc.ru",
+            "orders": "entry.store30@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.82437,
+            "longitude": 60.511236
+        },
+        "site_key": "1fb02a1b-53e0-4560-bed1-c629aee00a26",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ekat",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": false
+        }
+    },
+    {
+        "id": 46,
+        "store_id": 31,
+        "name": "г. Копейск, пр. Победы 76",
+        "address": "456620, Челябинская область, г. Копейск, пр. Победы 76",
+        "work_mode": "08:00 - 22:00",
+        "city": "Челябинск",
+        "region": "Челябинская область",
+        "director": {
+            "name": "Татьяна Худякова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (351) 216-17-00",
+            "email": "entry.store31@metro-cc.ru",
+            "orders": "entry.store31@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.120702,
+            "longitude": 61.548296
+        },
+        "site_key": "6ba1443a-738f-4635-a074-b6b00636e9b7",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "chel",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 47,
+        "store_id": 33,
+        "name": "ул. Мельникайте, д.141",
+        "address": "625062, г. Тюмень, ул. Мельникайте, д.141",
+        "work_mode": "07:00 - 22:00",
+        "city": "Тюмень",
+        "region": "Тюменская область",
+        "director": {
+            "name": "Кузнецов Денис",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3452) 52-21-00",
+            "email": "entry.store33@metro-cc.ru",
+            "orders": "entry.store33@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 57.1142,
+            "longitude": 65.543311
+        },
+        "site_key": "c8c56790-314b-4acc-ae22-46b475a22e62",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "tyumen",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 48,
+        "store_id": 35,
+        "name": "Шоссе Космонавтов, д.393",
+        "address": "614065, г. Пермь, шоссе Космонавтов, д.393",
+        "work_mode": "08:00 - 22:00",
+        "city": "Пермь",
+        "region": "Пермский край",
+        "director": {
+            "name": "Татьяна Зеленкина",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (342) 259-08-00",
+            "email": "entry.store35@metro-cc.ru",
+            "orders": "entry.store35@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 57.951498,
+            "longitude": 56.120217
+        },
+        "site_key": "fb0328e4-1e5b-4d2c-bc22-763bb60a8e17",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "perm",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 49,
+        "store_id": 40,
+        "name": "ул. Московская, 205",
+        "address": "610050, г. Киров, ул. Московская, 205",
+        "work_mode": "07:00 - 22:00",
+        "city": "Киров",
+        "region": "Кировская область",
+        "director": {
+            "name": "Галина Махоткина",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8332) 76-07-00",
+            "email": "entry.store40@metro.com.ru",
+            "orders": "entry.store40@metro.com.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 58.600238,
+            "longitude": 49.577446
+        },
+        "site_key": "4ca42692-1bd0-456d-972d-a7a1ad03d4c4",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kirov",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 50,
+        "store_id": 65,
+        "name": "Проспект Космонавтов, д.102а",
+        "address": "620135, Свердловская область, г. Екатеринбург, проспект Космонавтов, д.102а",
+        "work_mode": "07:00 - 22:00",
+        "city": "Екатеринбург",
+        "region": "Екатеринбург",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (343) 235-41-00",
+            "email": "entry.store65@metro-cc.ru",
+            "orders": "entry.store65@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.9132,
+            "longitude": 60.614587
+        },
+        "site_key": "39604a20-dc46-4dc0-8870-b2688ad7b7b3",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ekat",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": false
+        }
+    },
+    {
+        "id": 51,
+        "store_id": 78,
+        "name": "ул. 50-летия Магнитки, 69",
+        "address": "455034, Челябинская область, г. Магнитогорск, ул. 50-летия Магнитки, 69",
+        "work_mode": "08:00 - 22:00",
+        "city": "Магнитогорск",
+        "region": "Челябинская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3519) 39-35-00",
+            "email": "entry.store78@metro-cc.ru",
+            "orders": "entry.store78@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.35484412358936,
+            "longitude": 58.95068437301637
+        },
+        "site_key": "d4b66cc9-dcdf-4aec-a9cb-3210556d1e8a",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "magnit",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 52,
+        "store_id": 44,
+        "name": "ул. Большевистская, 290",
+        "address": "630028, г. Новосибирск, ул. Большевистская, 290",
+        "work_mode": "07:00 - 23:00",
+        "city": "Новосибирск",
+        "region": "Новосибирская область",
+        "director": {
+            "name": "Пупин Денис",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (383) 230-24-00",
+            "email": "Entry.Store44@metro-cc.ru",
+            "orders": "Entry.Store44@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.9764,
+            "longitude": 83.024104
+        },
+        "site_key": "1ae49e74-cfc1-4fa4-966d-58e61dc027e0",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 53,
+        "store_id": 45,
+        "name": "пр. Академика Королева 15, корпус 1",
+        "address": "644012, г. Омск, Проспект Академика Королева 15, корпус 1",
+        "work_mode": "07:00 - 22:00",
+        "city": "Омск",
+        "region": "Омская область",
+        "director": {
+            "name": "Афаунова Юлия",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7(3812) 37-89-00; 14561; +7(3812) 37-89-00; 14578",
+            "email": "Entry.Store45@metro-cc.ru",
+            "orders": "Entry.Store45@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.037005,
+            "longitude": 73.316451
+        },
+        "site_key": "0065f60b-8e69-4a6e-945f-498e32bbb1c2",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "omsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 54,
+        "store_id": 46,
+        "name": "п. Солонцы, пр. Котельникова, 1",
+        "address": "660015, Красноярский край, Емельяновский р-н, п. Солонцы, пр. Котельникова, 1",
+        "work_mode": "07:00 - 23:00",
+        "city": "Красноярск",
+        "region": "Красноярский край",
+        "director": {
+            "name": "Андрей Ушаков",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (391) 215-98-00",
+            "email": "entry.store46@metro-cc.ru",
+            "orders": "entry.store46@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.06264477596022,
+            "longitude": 92.84104649999998
+        },
+        "site_key": "945f5ac0-2e7d-41cc-b7ef-838d77a11246",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "krsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 55,
+        "store_id": 54,
+        "name": "Кондомское шоссе, 19",
+        "address": "654018, г. Новокузнецк,  Кондомское шоссе, 19",
+        "work_mode": "08:00 - 23:00",
+        "city": "Новокузнецк",
+        "region": "Кемеровская область",
+        "director": {
+            "name": "Мостовой Алексей",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3843) 91-09-00",
+            "email": "entry.store54@metro-cc.ru",
+            "orders": "entry.store54@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.733932,
+            "longitude": 87.17936
+        },
+        "site_key": "447ed573-0f32-4dd9-b577-72f9e025f234",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nkz",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 56,
+        "store_id": 57,
+        "name": "Павловский тракт, д. 309",
+        "address": "656922, Алтайский край, г. Барнаул, Павловский тракт, д. 309",
+        "work_mode": "07:00 - 22:00",
+        "city": "Барнаул",
+        "region": "Алтайский край",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3852) 28-24-00",
+            "email": "Entry.Store57@metro-cc.ru",
+            "orders": "Entry.Store57@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.34547828568788,
+            "longitude": 83.64250449999996
+        },
+        "site_key": "6cfe3e81-a91d-44c0-a8b3-b41b4a2ff9a8",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "barn",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 57,
+        "store_id": 60,
+        "name": "Заельцовский район, ул. Северная, 11",
+        "address": "630049, Новосибирская область, г. Новосибирск, Заельцовский район, ул. Северная, 11",
+        "work_mode": "07:00 - 23:00",
+        "city": "Новосибирск",
+        "region": "Новосибирская область",
+        "director": {
+            "name": "Тюменцев Дмитрий",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (383) 230-91-00",
+            "email": "Entry.store60@metro-cc.ru",
+            "orders": "Entry.store60@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.070515,
+            "longitude": 82.913252
+        },
+        "site_key": "487e9848-f996-4b4d-bd14-406b0511b4cf",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nsk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 58,
+        "store_id": 66,
+        "name": "ул. Клюева, 44",
+        "address": "634062, г. Томск, ул. Клюева, 44",
+        "work_mode": "08:00 - 22:00",
+        "city": "Томск",
+        "region": "Томская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3822) 28-90-00",
+            "email": "Entry.Store66@metro-cc.ru",
+            "orders": "Entry.Store66@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.494286,
+            "longitude": 85.041478
+        },
+        "site_key": "25d165be-8237-42bd-a365-b2c1e738b10a",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "tomsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 59,
+        "store_id": 76,
+        "name": "ул. Волгоградская, д.58",
+        "address": "650056, г. Кемерово, ул. Волгоградская, д.58",
+        "work_mode": "08:00 - 23:00",
+        "city": "Кемерово",
+        "region": "Кемеровская область",
+        "director": {
+            "name": "Иван Заморока",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3842) 49-06-00; +7 (3842) 67-59-00",
+            "email": "Entry.store76@metro-cc.ru",
+            "orders": "Entry.store76@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.324017,
+            "longitude": 86.170849
+        },
+        "site_key": "4131af8e-dc54-463b-958e-b7ce6106d04f",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kemerovo",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 60,
+        "store_id": 83,
+        "name": "ул. Розы Люксембург, 365",
+        "address": "664053, г. Иркутск, ул. Розы Люксембург, 365",
+        "work_mode": "07:00 - 23:00",
+        "city": "Иркутск",
+        "region": "Иркутская область",
+        "director": {
+            "name": "Климов Виктор",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (395) 278-45-00",
+            "email": "entry.store1083@metro-cc.ru",
+            "orders": "entry.store1083@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 52.36001378858342,
+            "longitude": 104.13657950000001
+        },
+        "site_key": "33d75c71-60c9-4ef8-bdab-4554aa09ccc5",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "irk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 61,
+        "store_id": 95,
+        "name": "ул. Кутузова, 1, стр. 196",
+        "address": "660050, Красноярский край, г. Красноярск, ул. Кутузова, 1, строение 196",
+        "work_mode": "07:00 - 23:00",
+        "city": "Красноярск",
+        "region": "Красноярский край",
+        "director": {
+            "name": "Свирков Андрей",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (391) 257-61-00",
+            "email": "entry.store1095@metro-cc.ru",
+            "orders": "entry.store1095@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.99036277629176,
+            "longitude": 92.98207249999986
+        },
+        "site_key": "8db9017f-492b-4923-8567-2de033d92b32",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "krsk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 62,
+        "store_id": 24,
+        "name": "ул. Доватора, 255",
+        "address": "344090, г. Ростов-на-Дону, ул. Доватора, 255",
+        "work_mode": "05:00 - 23:00",
+        "city": "Ростов-на-Дону",
+        "region": "Ростовская область",
+        "director": {
+            "name": "Александр Атаян",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (863) 204-05-00",
+            "email": "entry.store24@metro-cc.ru",
+            "orders": "entry.store24@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 47.236329,
+            "longitude": 39.606667
+        },
+        "site_key": "3ef4ad52-c2f1-4eb3-a2be-e5bae3533bf2",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "rostov",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 63,
+        "store_id": 26,
+        "name": "Ростовское Шоссе, д.30",
+        "address": "350010, г. Краснодар, Ростовское Шоссе, д.30",
+        "work_mode": "05:00 - 01:00",
+        "city": "Краснодар",
+        "region": "Краснодарский край",
+        "director": {
+            "name": "Александр Меладзе",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (861) 210-17-00",
+            "email": "Entry.Store26@metro-cc.ru",
+            "orders": "Entry.Store26@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 45.097895,
+            "longitude": 38.995813
+        },
+        "site_key": "6b286b12-4ef2-46bb-b583-b5fb86f0a40e",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "krd",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 64,
+        "store_id": 28,
+        "name": "ул. Историческая, д.164",
+        "address": "400075, г. Волгоград, ул. Историческая, д.164",
+        "work_mode": "07:00 - 22:00",
+        "city": "Волгоград",
+        "region": "Волгоградская область",
+        "director": {
+            "name": "Софья Найдис",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8442) 26-68-00",
+            "email": "Entry.Store28@metro-cc.ru",
+            "orders": "Entry.Store28@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 48.771718,
+            "longitude": 44.473586
+        },
+        "site_key": "ab7a87b2-dff6-4979-9f7f-11f9409af287",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "volgograd",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 65,
+        "store_id": 42,
+        "name": "ул. Южный обход, 13",
+        "address": "355000, г. Ставрополь, ул. Южный обход, 13",
+        "work_mode": "07:00 - 23:00",
+        "city": "Ставрополь",
+        "region": "Ставропольский край",
+        "director": {
+            "name": "Воробьев Олег",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8652) 27-32-00",
+            "email": "entry.store42@metro-cc.ru",
+            "orders": "entry.store42@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 44.989694,
+            "longitude": 41.935235
+        },
+        "site_key": "42b237ed-183d-4c1f-b335-45d7fa7674e0",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "stav",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 66,
+        "store_id": 53,
+        "name": "Проспект 40-лет Победы, 340",
+        "address": "344111, г. Ростов-на-Дону, проспект 40-лет Победы, 340",
+        "work_mode": "06:00 - 23:00",
+        "city": "Ростов-на-Дону",
+        "region": "Ростовская область",
+        "director": {
+            "name": "Виктория Помникова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (863) 307-15-00",
+            "email": "entry.store53@metro-cc.ru",
+            "orders": "entry.store53@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 47.245537,
+            "longitude": 39.844972
+        },
+        "site_key": "47c2035c-8a58-4245-88d6-6534c6a9ec9a",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "rostov",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 67,
+        "store_id": 58,
+        "name": "ул. Заводская/Набережная реки Царева,  54/83",
+        "address": "414021, Астраханская область, г. Астрахань, ул. Заводская/Набережная реки Царева,  54/83",
+        "work_mode": "07:00 - 22:00",
+        "city": "Астрахань",
+        "region": "Астраханская область",
+        "director": {
+            "name": "Ольга Герасимова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8512) 32-62-00; +7 (8512) 31-25-00",
+            "email": "Entry.Store58@metro-cc.ru",
+            "orders": "Entry.Store58@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 46.319994148746,
+            "longitude": 48.0195468472213
+        },
+        "site_key": "253664b3-326c-4e71-9e7d-018eb65ee348",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ast",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 68,
+        "store_id": 72,
+        "name": "ул. Тургеневское шоссе, 27/2",
+        "address": "385132, Республика Адыгея, Тахтамукайский район, а. Новая Адыгея, ул. Тургеневское шоссе, 27/2",
+        "work_mode": "05:00 - 23:00",
+        "city": "Новая Адыгея",
+        "region": "Адыгея",
+        "director": {
+            "name": "Бова Наталья",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (861) 298-16-00",
+            "email": "entry.store72@metro-cc.ru",
+            "orders": "entry.store72@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 45.01726379950513,
+            "longitude": 38.93231949999992
+        },
+        "site_key": "7717f951-1289-4299-b02a-7294bed6a6e1",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "adg",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 69,
+        "store_id": 86,
+        "name": "Бештаугорское шоссе, 94",
+        "address": "357538, Ставропольский край, г. Пятигорск, Бештаугорское шоссе, 94",
+        "work_mode": "07:00 - 23:00",
+        "city": "Пятигорск",
+        "region": "Ставропольский край",
+        "director": {
+            "name": "Даниил Галинов",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8793) 23-88-00",
+            "email": "customerentry.store86@metro-cc.ru",
+            "orders": "customerentry.store86@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 44.061701,
+            "longitude": 43.018504
+        },
+        "site_key": "eb60e2c8-15ef-4ba1-8285-e2df1d37df21",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "kmv",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 70,
+        "store_id": 309,
+        "name": "Проспект им. Ленина, 2 г",
+        "address": "404130, Волгоградская обл., г. Волжский, проспект им. Ленина, 2г",
+        "work_mode": "07:00 - 21:00",
+        "city": "Волжский",
+        "region": "Волгоградская область",
+        "director": {
+            "name": "Найдис Софья",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8443) 21-19-00",
+            "email": "entry.store1309@metro-cc.ru",
+            "orders": "entry.store1309@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 48.811829573773146,
+            "longitude": 44.7281419999999
+        },
+        "site_key": "52a14c02-046f-4e58-8293-182d10c529d4",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "volgograd",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 71,
+        "store_id": 304,
+        "name": "Черлакский тракт, 5",
+        "address": "644091, Омск, Черлакский тракт, 5",
+        "work_mode": "08:00 - 21:00",
+        "city": "Омск",
+        "region": "Омская область",
+        "director": {
+            "name": "Афаунова Юлия",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3812) 29-79-00",
+            "email": "Entry.Store1304@metro-cc.ru",
+            "orders": "Entry.Store1304@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.8965110697932,
+            "longitude": 73.42946799999994
+        },
+        "site_key": "f18438f9-a70a-4ea9-9652-180297e6f2b7",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "omsk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 72,
+        "store_id": 317,
+        "name": "Серпухов, бульвар 65 лет Победы, 4",
+        "address": "142204, Московская область, г. Серпухов, бульвар 65 лет Победы, 4",
+        "work_mode": "07:00 - 22:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 139-78-00",
+            "email": "acquisition.store1317@metro-cc.ru",
+            "orders": "acquisition.store1317@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.94395906973803,
+            "longitude": 37.40292899999999
+        },
+        "site_key": "c5ff5bfd-efcf-4819-93dc-36b3cd82e574",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 75,
+        "store_id": 307,
+        "name": "Ногинский район, с.п. Аксено-Бутырское, дер. Новые Псарьки, ул. Парковая, д. 4",
+        "address": "Московская область, Ногинский район, с.п. Аксено-Бутырское, дер. Новые Псарьки, ул. Парковая, д. 4",
+        "work_mode": "07:00 - 23:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Житенёв Андрей",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-24-00",
+            "email": "entry.store1307@metro-cc.ru",
+            "orders": "entry.store1307@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.83143356890283,
+            "longitude": 38.368689499999974
+        },
+        "site_key": "16fdcc10-d535-4f88-9db0-318b9c0ef806",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 76,
+        "store_id": 308,
+        "name": "Складочная ул., 1 стр.1",
+        "address": "Москва, Складочная ул., 1 стр.1",
+        "work_mode": "05:00 - 23:00",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Евгений Свисюк",
+            "email": "acquisition.store1308@metro-cc.ru",
+            "phone": "+ 7 (495) 139 18 00 (доб. 30878)"
+        },
+        "contacts": {
+            "phone": "+7 (495) 139-18-01",
+            "email": "entry.store1308@metro-cc.ru",
+            "orders": "entry.store1308@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.80044828,
+            "longitude": 37.5945845
+        },
+        "site_key": "b67efca8-bb43-46d0-9902-a40336d3557a",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 77,
+        "store_id": 73,
+        "name": "Подольский р-н, с.п. Лаговское, вблизи д. Коледино, 42 км. автомагистрали М-2-Крым, владение 1",
+        "address": "МО, Г.о. Подольск  42 км. автомагистрали М-2-Крым 1. стр.1",
+        "work_mode": "05:00 - 24:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Елена Суханцова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 139-28-00",
+            "email": "entry.store1073@metro-cc.ru",
+            "orders": "entry.store1073@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.39292456932305,
+            "longitude": 37.60145649999997
+        },
+        "site_key": "d9ea1532-0edc-4ee7-8440-aec277db7011",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 78,
+        "store_id": 310,
+        "name": "г. Семилуки, ул. Заречная-2, д. 52 М",
+        "address": "396900, Воронежская область, г. Семилуки, ул. Заречная-2, д. 52 М",
+        "work_mode": "07:00-23:00",
+        "city": "Воронеж",
+        "region": "Воронежская область",
+        "director": {
+            "name": "Корженевская Яна",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (473) 206 79 00; +7 (473) 206 57 50",
+            "email": "entry.store1310@metro-cc.ru",
+            "orders": "entry.store1310@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 51.6534606092355,
+            "longitude": 39.06200635807952
+        },
+        "site_key": "4206978d-7d02-4f58-86b1-6c37ddcb9398",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "voronezh",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 79,
+        "store_id": 94,
+        "name": "с. Гайдук, Новороссийское шоссе, 34",
+        "address": "353991, Краснодарский край, г. Новороссийск, с. Гайдук, Новороссийское шоссе, 34",
+        "work_mode": "06:00 - 23:00",
+        "city": "Новороссийск",
+        "region": "Краснодарский край",
+        "director": {
+            "name": "Наталия Бова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8617) 30 94 00; +7 (8617) 30 94 10",
+            "email": "entry.store1094@metro-cc.ru",
+            "orders": "entry.store1094@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 44.77212207458124,
+            "longitude": 37.69901349999998
+        },
+        "site_key": "eafaf125-6724-46f9-b694-9695481ac9ba",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nrsk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 80,
+        "store_id": 311,
+        "name": "Северный проезд, 3а",
+        "address": "630088, Новосибирск, Северный проезд, 3а",
+        "work_mode": "07:00 - 23:00",
+        "city": "Новосибирск",
+        "region": "Новосибирская область",
+        "director": {
+            "name": "Алексей Мостовой",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (383) 375-89-00",
+            "email": "entry.store1311@metro-cc.ru",
+            "orders": "entry.store1311@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 54.95061906975515,
+            "longitude": 82.89583349999985
+        },
+        "site_key": "88f29b61-ddcb-474f-b820-92558e59c713",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "nsk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 81,
+        "store_id": 320,
+        "name": "Московское шоссе, 6б",
+        "address": "600022, Владимир, Московское шоссе, 6б",
+        "work_mode": "07:00 - 22:00",
+        "city": "Владимир",
+        "region": "Владимирская область",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4922) 37-98-00",
+            "email": "acquisition.store1320@metro-cc.ru",
+            "orders": "acquisition.store1320@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.11333606864149,
+            "longitude": 40.325256499999995
+        },
+        "site_key": "7838d1b4-99ac-44a3-bb48-cfbb3d786283",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "vlad",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 82,
+        "store_id": 88,
+        "name": "Проспект Ленина, 2М",
+        "address": "453100, Республика Башкортостан, г. Стерлитамак, Проспект Ленина, 2М",
+        "work_mode": "08:00 - 22:00",
+        "city": "Стерлитамак",
+        "region": "Башкортостан",
+        "director": {
+            "name": "Ахмеров Шамиль",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (347) 226-89-00",
+            "email": "entry.store1088@metro-cc.ru",
+            "orders": "entry.store1088@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.656286070881166,
+            "longitude": 55.94456949999994
+        },
+        "site_key": "0fb14378-b9d4-4e83-9cef-ea5e0e8c4d9d",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "ster",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 83,
+        "store_id": 356,
+        "name": "1-я Дубровская, 13а",
+        "address": "115088, г. Москва, 1-я Дубровская, 13а",
+        "work_mode": "05:00 - 23:45",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": "Арминэ Егиазарян",
+            "email": "acquisition.store1356@metro-cc.ru",
+            "phone": "+7 (495) 123 26 04 доб. 35664"
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-27-00",
+            "email": "entry.store1356@metro-cc.ru",
+            "orders": "entry.store1356@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.72278,
+            "longitude": 37.674628
+        },
+        "site_key": "c53568b0-3d37-4261-b236-ea98d253c7cb",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 84,
+        "store_id": 336,
+        "name": "ул. Раздольная, д. 31",
+        "address": "302009, г. Орёл, ул. Раздольная, д. 31",
+        "work_mode": "с 7:00 до 22:00",
+        "city": "Орел",
+        "region": "Орловская область",
+        "director": {
+            "name": "Дмитроченко Татьяна",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4862) 20-18-00",
+            "email": "acquisition.store1336@metro.com.ru",
+            "orders": "acquisition.store1336@metro.com.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 53.00726457138375,
+            "longitude": 36.11552649999997
+        },
+        "site_key": "b341557a-1bea-435b-84ec-d6b90900a200",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "orel",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 85,
+        "store_id": 306,
+        "name": "ул. 30 Лет Победы, 76",
+        "address": "628403, Сургут, ул. 30 Лет Победы, 76",
+        "work_mode": "с 7:00 до 22:00",
+        "city": "Сургут",
+        "region": "Ханты-Мансийский автономный округ – Югра",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (3462) 98-71-00",
+            "email": "entry.store1306@metro-cc.ru",
+            "orders": "entry.store1306@metro-cc.ru",
+            "masterclasses": "sergey.bazhora@metro-cc.ru"
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 61.25807156239011,
+            "longitude": 73.46037899999996
+        },
+        "site_key": "f83a6eaa-3f4d-4f00-b0b0-3d2d154f6ba4",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "surgut",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 86,
+        "store_id": 82,
+        "name": "Проспект Королёва, 1В",
+        "address": "344000, Ростов-на-Дону, проспект Королёва, 1В",
+        "work_mode": "06:00 - 23:00",
+        "city": "Ростов-на-Дону",
+        "region": "Ростовская область",
+        "director": {
+            "name": "Наталья Орлова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (863) 204-48-00",
+            "email": "entry.store1082@metro-cc.ru",
+            "orders": "entry.store1082@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 47.284580571512834,
+            "longitude": 39.68680146987527
+        },
+        "site_key": "2ce3e3ab-79cc-477e-86af-53710c5b9c74",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "rostov",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 87,
+        "store_id": 318,
+        "name": "Лобня, ул. Горки-Киовские, владение 15",
+        "address": "Московская область, г. Лобня, ул. Горки-Киовские, владение 15",
+        "work_mode": "07:00 - 23:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Штеймарк Оксана",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-25-00",
+            "email": "entry.store1318@metro-cc.ru",
+            "orders": "entry.store1318@metro-cc.ru",
+            "masterclasses": "sergey.bazhora@metro-cc.ru"
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 56.02554227611613,
+            "longitude": 37.467733499999945
+        },
+        "site_key": "f8d3995f-3cc7-4d25-a1aa-9acd103d69c4",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 90,
+        "store_id": 337,
+        "name": "п. Дубовое, ул. Придорожная 2",
+        "address": "Белгородская обл., Белгородский район, п. Дубовое, ул. Придорожная 2",
+        "work_mode": "07:00 - 22:00",
+        "city": "Белгород",
+        "region": "Белгородская область",
+        "director": {
+            "name": "Степанюк Ж.Е.",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (4722) 78-94-00",
+            "email": "entry.store1337@metro-cc.ru",
+            "orders": "entry.store1337@metro-cc.ru",
+            "masterclasses": "Acquisition.store1337@metro-cc.ru"
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 50.55230755869086,
+            "longitude": 36.57395689675898
+        },
+        "site_key": "c657900a-7923-4b25-be0e-012d56a390fe",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "bel",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 91,
+        "store_id": 357,
+        "name": "Талажское шоссе, д. 22, стр. 31",
+        "address": "163045, Архангельская область, Приморский район, МО «Талажское», Талажское шоссе, д. 22, строение 31",
+        "work_mode": "с  7:00 до 22:00",
+        "city": "Архангельск",
+        "region": "Архангельская область",
+        "director": {
+            "name": "Гаврилова Елена",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8182) 42-29-00",
+            "email": "Acquisition.Store1357@metro-cc.ru",
+            "orders": "Acquisition.Store1357@metro-cc.ru",
+            "masterclasses": "sergey.bazhora@metro-cc.ru"
+        },
+        "services": [
+            "Услуги в ТЦ",
+            "бесплатная парковка",
+            "камеры хранения",
+            "доставка",
+            "банкоматы"
+        ],
+        "coordinates": {
+            "latitude": 64.576874,
+            "longitude": 40.591375
+        },
+        "site_key": "696fc99d-3202-4d77-9b56-167dc92a2836",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "arh",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 92,
+        "store_id": 340,
+        "name": "Московское ш., 16",
+        "address": "Владикавказ, Московское ш., 16",
+        "work_mode": "с 7:00 до 23:00",
+        "city": "Владикавказ",
+        "region": "Северная Осетия - Алания",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (8672) 28-29-00",
+            "email": "Entry.store1340@metro-cc.ru",
+            "orders": "Entry.store1340@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 43.008589,
+            "longitude": 44.649457
+        },
+        "site_key": "028b2a49-b0b9-4bd7-8f92-0b7b50e8fe91",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "vladik",
+        "is_main": 1,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 93,
+        "store_id": 342,
+        "name": "Крылатая, 2А",
+        "address": "Краснодарский край, Крылатая, 2A",
+        "work_mode": "07:00-23:00",
+        "city": "Краснодар",
+        "region": "Краснодарский край",
+        "director": {
+            "name": "Александр Гуляев",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (861) 293-82-00",
+            "email": "entry.store1342@metro-cc.ru",
+            "orders": "entry.store1342@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 45.01148568250743,
+            "longitude": 39.12257622747799
+        },
+        "site_key": "7d702235-f5bd-4efb-80b9-26bfa6cad5d9",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "krd",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 94,
+        "store_id": 322,
+        "name": "Ленинский район, д. Апаринки",
+        "address": "142715, МО, Ленинский г.о., пос. совхоза им. Ленина, владение 8",
+        "work_mode": "07:00 - 24:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Елена Федодеева",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-26-00",
+            "email": "Acquisition.Store1322@metro-cc.ru",
+            "orders": "Acquisition.Store1322@metro-cc.ru",
+            "masterclasses": "sergey.bazhora@metro-cc.ru"
+        },
+        "services": [
+            "Услуги в ТЦ",
+            "бесплатная парковка",
+            "камеры хранения",
+            "Ресторан",
+            "доставка",
+            "банкоматы",
+            "оформление товаров в кредит",
+            "терминалы оплаты услуг",
+            "А также:",
+            "Аптека",
+            "Почта России"
+        ],
+        "coordinates": {
+            "latitude": 55.57473292732785,
+            "longitude": 37.75508522987366
+        },
+        "site_key": "6F29C253-FD1D-45AB-AB21-1D1F4092A902",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 95,
+        "store_id": 77,
+        "name": "деревня Ликино 35 км Минского шоссе 2",
+        "address": "Московская область г. Одинцово, деревня Ликино 35 км Минского шоссе 2",
+        "work_mode": "07:00 - 24:00",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Юлия Бакурова",
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 540-23-00",
+            "email": "Entry.Store1077@metro-cc.ru",
+            "orders": "Entry.Store1077@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.624797,
+            "longitude": 37.144066
+        },
+        "site_key": "F2F0A6F7-5572-4ACB-BC1F-20092722158D",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 96,
+        "store_id": 363,
+        "name": "Боровское шоссе 10А",
+        "address": "Москва, Боровское шоссе  Боровское шоссе 10А",
+        "work_mode": "07:00 - 23:00",
+        "city": "Москва",
+        "region": "Москва",
+        "director": {
+            "name": null,
+            "email": null,
+            "phone": null
+        },
+        "contacts": {
+            "phone": "+7 (495) 139-25-00",
+            "email": "entry.store1363@metro-cc.ru",
+            "orders": "entry.store1363@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            "Услуги в ТЦ",
+            "бесплатная парковка",
+            "камеры хранения",
+            "Ресторан",
+            "доставка",
+            "банкоматы",
+            "оформление товаров в кредит",
+            "терминалы оплаты услуг",
+            "А также:",
+            "Аптека"
+        ],
+        "coordinates": {
+            "latitude": 55.65386806907226,
+            "longitude": 37.37569199999995
+        },
+        "site_key": "3DEC05FD-050C-44BA-8D79-0FDCC21E97CE",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    },
+    {
+        "id": 97,
+        "store_id": 444,
+        "name": "г. Котельники, Новорязанское шоссе, д.5",
+        "address": "143987, Московская обл., г. Котельники, Новорязанское шоссе, д.5140053",
+        "work_mode": "06:00-23:45",
+        "city": "Московская область",
+        "region": "Московская область",
+        "director": {
+            "name": "Виталий Мерц",
+            "email": "vitaly.merz01@metro-cc.ru",
+            "phone": "+7 495 332 37 00 доб. 44482"
+        },
+        "contacts": {
+            "phone": "+74953323700; 44482",
+            "email": "adminspecialist.store1444@metro-cc.ru",
+            "orders": "adminspecialist.store1444@metro-cc.ru",
+            "masterclasses": ""
+        },
+        "services": [
+            ""
+        ],
+        "coordinates": {
+            "latitude": 55.668371,
+            "longitude": 37.865804
+        },
+        "site_key": "1BAD368B-9FA9-4E62-8D1C-3C624FBF9162",
+        "dark_store": false,
+        "assortment_text": null,
+        "subdomain": "msk",
+        "is_main": 0,
+        "eshop_available": 1,
+        "pickup_available": 1,
+        "market_pick_up": true,
+        "market_courier": true,
+        "b2b_available": true,
+        "additional_parameters": {
+            "allow_redirect_to_market": true
+        }
+    }
+]
